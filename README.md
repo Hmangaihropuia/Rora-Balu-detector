@@ -1,2 +1,2 @@
 # Rora-Balu-detector
-Custom trained object named rora and balu using tensorflow2 and detect it using the object detection package.
+This project includes a custom data train using tensorflow2. I use google collab to train my custom object i.e rora and balu. After training the dataset I implement it into an object detection in which my custom object were able to be detected. It includes detection using image and detection using a webcam, also the webcam is able to count the detected object and display it in the video frame.
